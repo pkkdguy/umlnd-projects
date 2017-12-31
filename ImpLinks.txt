@@ -1,0 +1,10 @@
+# using virtualenv
+
+1 . http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/
+
+2 . http://timmyreilly.azurewebsites.net/setup-a-virtualenv-for-python-3-on-windows/
+
+3 . https://taufiqhabib.wordpress.com/2016/12/18/intalling-jupyter-in-a-virtualenv/ (Installing Jupyter in a virtual environment)
+
+4 . https://help.pythonanywhere.com/pages/IPythonNotebookVirtualenvs/ (Check this also)
+
