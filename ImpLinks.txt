@@ -8,3 +8,8 @@
 
 4 . https://help.pythonanywhere.com/pages/IPythonNotebookVirtualenvs/ (Check this also)
 
+
+# STATISTICS CONCEPTS
+
+1 . https://www.analyticsvidhya.com/blog/2015/11/8-ways-deal-continuous-variables-predictive-modeling/
+2 . http://www.statisticshowto.com/probability-and-statistics/skewed-distribution/  
